@@ -916,3 +916,14 @@ padding-top: 102px;
         display: none;
     }
 }
+
+.checkResGit{
+    display: none;
+    color: #ff3258;
+}
+@media(max-width: 650px) {
+    .checkResGit{
+        display: inline-block;
+        margin-top: 15px;
+    }
+}
