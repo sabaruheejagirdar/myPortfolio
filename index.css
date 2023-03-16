@@ -630,15 +630,15 @@ body:not(.user-is-tabbing) a:focus {
 @media(max-width: 650px){
     .about__photo-container{
       top: 28%;
-      right: calc(55% - 120px);
+      right: calc(55% - 105px);
       /* right: calc(55% - 100px); */
       width: 200px;
     }
 }
 @media(max-width: 500px){
     .about__photo-container{
-        /* top: 23%; */
-        width: 200px;
+        top: 25%;
+        width: 175px;
     }
 }
 
