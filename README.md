@@ -1,5 +1,5 @@
-# Contains my portfolio using HTML, CSS, JS.
+### Contains my portfolio using HTML, CSS, JS.
 
-## published using GitHub Pages
+### Published using GitHub Pages
 
 ### www.sabaruhee.com
