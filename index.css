@@ -632,7 +632,7 @@ body:not(.user-is-tabbing) a:focus {
       top: 28%;
       right: calc(55% - 105px);
       /* right: calc(55% - 100px); */
-      width: 200px;
+      width: 180px;
     }
 }
 @media(max-width: 500px){
