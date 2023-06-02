@@ -458,7 +458,7 @@ body:not(.user-is-tabbing) a:focus {
 }
 @media(max-width: 450px){
     .header__text{
-        left: 0%;
+        left: 6%;
     }
 }
 
